@@ -1,2 +1,2 @@
-# gutudu
-CLI ToDo in GO
+# GuTuDu
+A tiny cli for managing tasks in your busy life :kekw:
